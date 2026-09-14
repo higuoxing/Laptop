@@ -96,8 +96,8 @@
         "format": "{percent}% {icon}",
         "format-icons": ["", "", "", "", "", "", "", "", ""],
         "reverse-scrolling": 1, // Touchpad has natural scrolling; keep scroll-up = brightness-up
-        "on-scroll-up": "brightnessctl set +5%",
-        "on-scroll-down": "brightnessctl set 5%-"
+        "on-scroll-up": "brightnessctl set +2%",
+        "on-scroll-down": "brightnessctl set 2%-"
     },
     "battery": {
         "states": {
